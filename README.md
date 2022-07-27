@@ -3,8 +3,10 @@
 My name is 知晓同丶, my site is [https://zhixiaotong.fun/](https://zhixiaotong.fun/).
 
 <a href="https://github.com/zhixiaotong">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhixiaotong&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhixiaotong&count_private=true&show_icons=true" />
 </a>
+
+---
 
 <a href="https://github.com/zhixiaotong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhixiaotong&layout=compact" />
