@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+My name is 知晓同丶, my site is [https://zhixiaotong.fun/](https://zhixiaotong.fun/).
+
+#### github基础统计信息
+<a href="https://github.com/wangsrGit119">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhixiaotong&count_private=true&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/wangsrGit119">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhixiaotong&layout=compact" />
+</a>
+
 <!--
 **zhixiaotong/zhixiaotong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
