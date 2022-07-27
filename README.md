@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-My name is 知晓同丶, my site is [https://zhixiaotong.fun/](https://zhixiaotong.fun/).
+My name is 知晓同丶, i'm interested in the frontend field, and use java、 javascript、 typescript to complete the work. Welcome to communicate with me. My email is: [zhixiaotong.me@qq.com](https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Uyk7Ois6MjwnPD00fT42EyIifTA8Pg). My site is [https://zhixiaotong.fun/](https://zhixiaotong.fun/).
 
 <a href="https://github.com/zhixiaotong">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhixiaotong&count_private=true&show_icons=true" />
-</a>
-
----
-
-<a href="https://github.com/zhixiaotong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhixiaotong&layout=compact" />
 </a>
 
 <!--
